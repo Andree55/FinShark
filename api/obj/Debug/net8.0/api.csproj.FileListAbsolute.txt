@@ -420,3 +420,4 @@ C:\Projects\FirstProject\api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.Enti
 C:\Projects\FirstProject\api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Projects\FirstProject\api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Projects\FirstProject\api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Projects\FirstProject\api\obj\Debug\net8.0\api.sourcelink.json

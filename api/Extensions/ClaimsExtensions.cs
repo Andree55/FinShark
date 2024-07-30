@@ -1,11 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace api.bin.Extensions
 {
-    public class ClaimsExtensons
+    public static class ClaimsExtensons
     {
         public static string GetUserName(this ClaimsPrincipal user)
         {
