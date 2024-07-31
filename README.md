@@ -1,4 +1,5 @@
 FinShark is an advanced financial analysis and investment management tool. It offers a range of features designed to help users understand and manage their finances and investments. The main applications and features of FinShark include:
+<img width="1138" alt="homepage" src="https://github.com/user-attachments/assets/d3a86894-8a94-42cd-9747-da9a4ad385d8">
 
 ### 1. **Market and Investment Analysis**
 FinShark provides users with advanced analytical tools to assess the performance of various investments such as stocks, ETFs, bonds, and cryptocurrencies. Users can analyze historical data, monitor current prices, and receive investment recommendations.
